@@ -1,0 +1,2 @@
+# XBPhotoSlider
+Swift, Photo
